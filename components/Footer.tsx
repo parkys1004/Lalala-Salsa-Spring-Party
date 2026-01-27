@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
             href="https://cafe.naver.com/051salsa/52623" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 px-8 py-4 bg-[#03C75A] text-white font-bold rounded-xl hover:bg-[#02b351] transition-colors shadow-lg shadow-green-900/20"
+            className="inline-flex items-center justify-center w-full md:w-auto gap-2 px-6 md:px-8 py-4 bg-[#03C75A] text-white font-bold rounded-xl hover:bg-[#02b351] transition-colors shadow-lg shadow-green-900/20"
         >
             <span>네이버 카페 [라라라 살사] 바로가기</span>
             <ExternalLink size={18} />
