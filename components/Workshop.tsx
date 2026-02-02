@@ -19,7 +19,7 @@ const Workshop: React.FC = () => {
             <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-white/10 aspect-[4/3]">
                 {/* Abstract representation of dance workshop */}
               <img 
-                src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FR8w1D%2FdJMcacPtiGr%2FAAAAAAAAAAAAAAAAAAAAACLVqYuIpTq_RkL9B_p-X-QvMdW1_UqH7ph3LudeM15s%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1769871599%26allow_ip%3D%26allow_referer%3D%26signature%3DyCdGhZLE6I%252Fgjwoa6Uwb%252FoGvqE4%253D" 
+                src="https://blog.kakaocdn.net/dna/R8w1D/dJMcacPtiGr/AAAAAAAAAAAAAAAAAAAAACLVqYuIpTq_RkL9B_p-X-QvMdW1_UqH7ph3LudeM15s/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1772290799&allow_ip=&allow_referer=&signature=Nab%2BWwviece9HMqiBQluZx9IULo%3D" 
                 alt="Raul & Yomi Workshop" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               />
